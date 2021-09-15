@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(224, 221, 209);
+}
+
+.pageHeader {
+    text-align: center;
+    color: rgb(90, 4, 90);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+}
+
+
+
+.recipeHomeLogo {
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 18px;
+
+}
+
+.recipe {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
